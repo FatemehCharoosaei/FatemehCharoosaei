@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChFatemeh1995
+- 👋 Hi, I’m @Fatemeh Charoosaei
 - 👀 Graduated M.Sc. Artificial Intelligence and Robotics
 - 🌱 student with experience in Data Science, Machine Learning, Deep Learning . (espesially in Recurrent Neural Networks)
 - 💞️ I’m Intrested in Deep Learning, Data Science, Mashine Learning and Computer Vision. (espesially Medical and Biomedical field)
