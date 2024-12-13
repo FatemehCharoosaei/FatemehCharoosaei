@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatemeh Charoosaei
 - 👀 Graduated M.Sc. Artificial Intelligence and Robotics
-- 🌱 student with experience in Data Science, Machine Learning, Deep Learning . (espesially in Recurrent Neural Networks)
+- 🌱 student with experience in Data Science, Machine Learning, Deep Learning . (especially in Recurrent Neural Networks)
 - 💞️ I’m Intrested in Deep Learning, Data Science, Machine Learning and Computer Vision. 
 - 📫 charoosaei.fatemeh@gmail.com
 
