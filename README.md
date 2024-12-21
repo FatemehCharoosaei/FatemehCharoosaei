@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Fatemeh Charoosaei
-- 👀 Graduated M.Sc. Artificial Intelligence and Robotics
-- 🌱 student with experience in Data Science, Machine Learning, Deep Learning . (especially in Recurrent Neural Networks)
-- 💞️ I’m Intrested in Deep Learning, Data Science, Machine Learning and Computer Vision. 
+- 👋 Hi, I’m @Fatemeh Charoosaei, an AI and Robotics graduate with a deep passion for applying artificial intelligence to healthcare. Living with type 1 diabetes since childhood, I am motivated to develop innovative solutions that minimize invasive and painful medical procedures.
+  
+- 👀 I have experience in developing neural networks, computer vision, and machine learning models. My ultimate goal is to pursue a PhD focused on AI in healthcare, where I can contribute to creating impactful solutions for medical challenges and inspire others facing health issues.
+  
+- 💞️ My research interests include:
+	•	Deep Learning and Neural Networks for medical applications.
+	•	Machine Learning and Data Science for predictive modeling.
+	•	Medical Image Processing for disease detection and diagnosis.
+
 - 📫 charoosaei.fatemeh@gmail.com
 
 <!---
