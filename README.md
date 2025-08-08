@@ -6,6 +6,7 @@
 	•	Deep Learning and Neural Networks for medical applications.
 	•	Machine Learning and Data Science for predictive modeling.
 	•	Medical Image Processing for disease detection and diagnosis.
+    •	Biomedical Signal Processing.
 
 - 📫 charoosaei.fatemeh@gmail.com
 
